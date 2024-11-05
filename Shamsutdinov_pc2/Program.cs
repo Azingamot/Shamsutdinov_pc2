@@ -13,8 +13,15 @@
             yourNumber = Convert.ToInt32(Console.ReadLine());
 
             if (yourNumber == number) break;
+            else if (yourNumber > number)
+            {
+                Console.WriteLine("Твоё число слишком большое");
+            }
+            else
+            {
+                Console.WriteLine("Твоё число слишком маленькое");
+            }
 
-            Console.WriteLine("Неправильно");
         }
         Console.WriteLine("Правильно.");
     }

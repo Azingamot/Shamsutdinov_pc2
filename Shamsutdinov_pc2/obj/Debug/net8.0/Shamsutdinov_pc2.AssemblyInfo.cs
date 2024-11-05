@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shamsutdinov_pc2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+103cb447517f8a65912a2b3ca34eb34ffeb5e9c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fc0836aa0a2768be5869cb2a21ada05411cae45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shamsutdinov_pc2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shamsutdinov_pc2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
