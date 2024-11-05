@@ -1,0 +1,15 @@
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\bin\Debug\net8.0\Shamsutdinov_pc2.exe
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\bin\Debug\net8.0\Shamsutdinov_pc2.deps.json
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\bin\Debug\net8.0\Shamsutdinov_pc2.runtimeconfig.json
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\bin\Debug\net8.0\Shamsutdinov_pc2.dll
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\bin\Debug\net8.0\Shamsutdinov_pc2.pdb
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.AssemblyInfoInputs.cache
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.AssemblyInfo.cs
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.csproj.CoreCompileInputs.cache
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.sourcelink.json
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.dll
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\refint\Shamsutdinov_pc2.dll
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.pdb
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\Shamsutdinov_pc2.genruntimeconfig.cache
+d:\Users\shamsutdinov.rr2860\Desktop\Shamsutdinov_pc2\Shamsutdinov_pc2\obj\Debug\net8.0\ref\Shamsutdinov_pc2.dll
