@@ -6,22 +6,27 @@
 
         Console.WriteLine("Угадай число от 1 до 10");
 
-        int yourNumber = 0;
-
         while (true)
         {
-            yourNumber = Convert.ToInt32(Console.ReadLine());
-
-            if (yourNumber == number) break;
-            else if (yourNumber > number)
+            try
             {
-                Console.WriteLine("Твоё число слишком большое");
-            }
-            else
-            {
-                Console.WriteLine("Твоё число слишком маленькое");
-            }
+                int yourNumber = Convert.ToInt32(Console.ReadLine());
 
+                if (yourNumber == number) break;
+                else if (yourNumber > number)
+                {
+                    Console.WriteLine("Твоё число слишком большое");
+                }
+                else
+                {
+                    Console.WriteLine("Твоё число слишком маленькое");
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Это не число.");
+                continue;
+            }
         }
         Console.WriteLine("Правильно.");
     }
